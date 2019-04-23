@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "author": "Person",
+  "safetyLevel": "Non",
+  "depthLevel": 0,
+  "superpin": false,
+  "pinned": ["Hans", "Peter"],
+  "tag": ["Math", "Müller-Schneiders"],
+  "subthreads": [
+    {
+      "id": 2,
+      "text": "Hallos",
+      "subthreads": [
+        { "id": 6, "text": "This is a subthread" },
+        { "id": 7, "text": "This is another subthread" }
+      ]
+    },
+    { "id": 3, "text": "Hallos" },
+    { "id": 4, "text": "Hallos" },
+    { "id": 5, "text": "Hallos" }
+  ],
+  "text": "Die Macht der Menge ist mit euch!"
+}

@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+}
+.main {
+  border-color: crimson;
+  border-width: 5px;
+  border-style: solid;
+  padding: 0px;
+}
+.sub {
+  border-color: darkred;
+  border-width: 3px;
+  border-style: solid;
+  padding: 0px;
+}
+.box {
+  border-width: 2px;
+  border-style: ridge;
+  border-color: red;
+}
+.date {
+  font-size: 10px;
+  text-align: end;
+}
+ul {
+  list-style-type: none;
+  padding: 4px;
+}

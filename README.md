@@ -1,2 +1,0 @@
-# WT
-Created with CodeSandbox
